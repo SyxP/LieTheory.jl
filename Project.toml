@@ -1,0 +1,7 @@
+name = "LieTheory"
+uuid = "8b0da350-1395-48a4-ac90-966280f555dc"
+authors = ["Syx Pek <20557013+SyxP@users.noreply.github.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
